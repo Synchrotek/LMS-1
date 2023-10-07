@@ -4,6 +4,7 @@
 - The system aims to streamline library operations and provide an organized platform for users.
 
 ***
+### Preview : [ check here](https://www.linkedin.com/posts/5n-cde_codeclause-internship-activity-7113058368423931905-GwMQ/)
 
 - This project uses Python and PyQt5 for the graphical user interface.
 - It employs a MySQL database to store book and user information.
