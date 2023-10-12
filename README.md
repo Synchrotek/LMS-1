@@ -11,4 +11,3 @@
 - It employs a MySQL database to store book and user information.
 - The application consists of two main windows: a login window for user authentication and the main library management window.
 - Users enter their credentials in the login window, and upon successful login, they gain access to the library management functionalities.
-- Hope u like it -^-^-
