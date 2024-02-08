@@ -1,6 +1,6 @@
 # LMS-1
 - A user-friendly Library Management System (LMS) that allows administrators to efficiently manage books and users in a library.
-- Users can rent books, and admins can add, search, and delete books and admin accounts.
+- Admins can rent books, and admins can add, search, and delete books and admin accounts.
 - The system aims to streamline library operations and provide an organized platform for users.
 
 ***
